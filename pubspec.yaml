@@ -1,0 +1,33 @@
+name: task_usha
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=3.1.5 <4.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.6.6
+  health: ^4.0.0
+  permission_handler: ^10.2.0
+  device_info_plus: ^8.0.0
+  firebase_core: ^2.15.1
+  flutter_svg: ^2.0.10+1
+  animated_splash_screen: ^1.3.0
+  flutter: 
+    sdk: flutter
+
+
+
+dev_dependencies: 
+  flutter_lints: ^2.0.0
+  flutter_test: 
+    sdk: flutter
+
+
+flutter: 
+  uses-material-design: true
+
+
+  assets:
+    - assets/

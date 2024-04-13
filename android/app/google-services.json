@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "623595862105",
+    "project_id": "fitness-fa7b3",
+    "storage_bucket": "fitness-fa7b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623595862105:android:61309d3db1e6c68f8bd948",
+        "android_client_info": {
+          "package_name": "com.taskusha.task_usha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623595862105-0arge1nkm55m80o1eq1m6vcj0m4phr0o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.taskusha.task_usha",
+            "certificate_hash": "9b56c7f3f0ba1a9de5834d020d088ed4d40a3cc1"
+          }
+        },
+        {
+          "client_id": "623595862105-9ok5vp5a1bdtqob84i1mdgsor0kj6l8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCeuLFFJ_BNzQI70rWr1knEWhrjKPzn_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623595862105-9ok5vp5a1bdtqob84i1mdgsor0kj6l8e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "623595862105-bh0ekrnr87ge8ui5j5ueehohi9prmej2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.taskusha.taskUsha"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
